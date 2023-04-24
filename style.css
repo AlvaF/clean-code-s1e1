@@ -42,18 +42,16 @@ body {
     display: flex;
 }
 
-ul {
+.tasks {
     margin: 0;
     padding: 0px;
 }
 
-li,
-h3 {
+.text {
     list-style: none;
 }
 
-input,
-button {
+.outline {
     outline: none;
 }
 
